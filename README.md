@@ -1,4 +1,4 @@
 # Calculator
 First project made with HTML, CSS, JS
-Perform simple addition, subtraction, multiplication and division.
-User can switch between dark and light theme.
+<br> Perform simple addition, subtraction, multiplication and division.
+<br> User can switch between dark and light theme.
